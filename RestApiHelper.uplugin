@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RestApiHelper",
+	"Description": "Simple http REST wrapper that helps in managing rest apis in Unreal Engine.",
+	"Category": "Other",
+	"CreatedBy": "Mateusz Fryc, Dyson Sphere Games",
+	"CreatedByURL": "https://dysonspheregames.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RestApiHelper",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
